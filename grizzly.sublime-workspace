@@ -1,0 +1,618 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"conf",
+				"config"
+			],
+			[
+				"bo",
+				"bower_components"
+			],
+			[
+				"acc",
+				"access_token"
+			],
+			[
+				"res",
+				"result"
+			],
+			[
+				"e",
+				"error"
+			],
+			[
+				"err",
+				"err"
+			],
+			[
+				"auth",
+				"authToken"
+			],
+			[
+				"find",
+				"findOne"
+			],
+			[
+				"con",
+				"contactNumbers"
+			],
+			[
+				"gen",
+				"gender"
+			],
+			[
+				"ende",
+				"endedOn"
+			],
+			[
+				"endD",
+				"endDateAltered"
+			],
+			[
+				"not",
+				"notEmpty"
+			],
+			[
+				"sa",
+				"sanitize"
+			],
+			[
+				"for",
+				"for	for (…) {…} (Improved Native For-Loop)"
+			],
+			[
+				"end",
+				"endDateAltered"
+			],
+			[
+				"ended",
+				"enededOn"
+			],
+			[
+				"Tenure",
+				"Tenures"
+			],
+			[
+				"contac",
+				"contactNumbers"
+			],
+			[
+				"fun",
+				"fun	Function"
+			],
+			[
+				"pro",
+				"profile"
+			],
+			[
+				"us",
+				"user"
+			],
+			[
+				"use",
+				"username"
+			],
+			[
+				"pass",
+				"password"
+			],
+			[
+				"sav",
+				"save"
+			],
+			[
+				"req",
+				"req"
+			],
+			[
+				"User",
+				"UserSchema"
+			],
+			[
+				"craete",
+				"createdOn"
+			],
+			[
+				"created",
+				"createdOn"
+			],
+			[
+				"generate",
+				"generateToken"
+			],
+			[
+				"er",
+				"err"
+			],
+			[
+				"exi",
+				"existing"
+			],
+			[
+				"BA",
+				"BADPASSWORD"
+			],
+			[
+				"G",
+				"GOODEMAIL"
+			],
+			[
+				"fu",
+				"function"
+			],
+			[
+				"Ob",
+				"object"
+			],
+			[
+				"u",
+				"url"
+			],
+			[
+				"GOODP",
+				"GOODPASSWORD"
+			],
+			[
+				"GOODPA",
+				"goodpassword"
+			],
+			[
+				"test",
+				"testData"
+			],
+			[
+				"good",
+				"goodpassword"
+			],
+			[
+				"bad",
+				"bademail"
+			],
+			[
+				"cre",
+				"create"
+			],
+			[
+				"app",
+				"appUrl"
+			],
+			[
+				"create",
+				"createUser"
+			],
+			[
+				"requ",
+				"request"
+			],
+			[
+				"remo",
+				"removeUsers"
+			],
+			[
+				"ne",
+				"next"
+			],
+			[
+				"tr",
+				"try"
+			],
+			[
+				"en",
+				"encryptPassword"
+			],
+			[
+				"Create",
+				"createUser"
+			],
+			[
+				"userM",
+				"userMasterModel"
+			],
+			[
+				"w",
+				"winston"
+			],
+			[
+				"re",
+				"req"
+			],
+			[
+				"user",
+				"userMaster"
+			],
+			[
+				"co",
+				"collection"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "config/config.js",
+			"settings":
+			{
+				"buffer_size": 1510,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "models/user.js",
+			"settings":
+			{
+				"buffer_size": 4016,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "controllers/user.js",
+			"settings":
+			{
+				"buffer_size": 11282,
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "",
+	"command_palette":
+	{
+		"height": 369.0,
+		"selected_items":
+		[
+			[
+				"pack",
+				"Package Control: Install Package"
+			],
+			[
+				"side",
+				"View: Toggle Side Bar"
+			],
+			[
+				"snipp",
+				"Snippet: #!/usr/bin/env"
+			],
+			[
+				"",
+				"View: Toggle Side Bar"
+			],
+			[
+				"Package Control: ",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: inst",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: ins",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: in",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 449.0
+	},
+	"console":
+	{
+		"height": 484.0,
+		"history":
+		[
+			"cd Packages",
+			"cd Packages/",
+			"version",
+			"import urllib2,os; pf='Package Control.sublime-package'; ipp=sublime.installed_packages_path(); os.makedirs(ipp) if not os.path.exists(ipp) else None; urllib2.install_opener(urllib2.build_opener(urllib2.ProxyHandler())); open(os.path.join(ipp,pf),'wb').write(urllib2.urlopen('http://sublime.wbond.net/'+pf.replace(' ','%20')).read()); print('Please restart Sublime Text to finish installation')",
+			"cls",
+			"clear",
+			"import urllib2,os; pf='Package Control.sublime-package'; ipp=sublime.installed_packages_path(); os.makedirs(ipp) if not os.path.exists(ipp) else None; urllib2.install_opener(urllib2.build_opener(urllib2.ProxyHandler())); open(os.path.join(ipp,pf),'wb').write(urllib2.urlopen('http://sublime.wbond.net/'+pf.replace(' ','%20')).read()); print('Please restart Sublime Text to finish installation')"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/home/nadeesha/projects/grizzly/utility.js",
+		"/home/nadeesha/projects/grizzly/controllers/user.js",
+		"/home/nadeesha/projects/grizzly/config/express.js",
+		"/home/nadeesha/projects/grizzly/config/routes.js",
+		"/home/nadeesha/projects/grizzly/config/config.js",
+		"/home/nadeesha/projects/grizzly/models/user.js",
+		"/home/nadeesha/projects/grizzly/config/passport.js",
+		"/home/nadeesha/projects/grizzly/test/user-create-test.js",
+		"/home/nadeesha/projects/grizzly/test/user-activate-test.js",
+		"/home/nadeesha/projects/kodiak/app/partials/landing.html",
+		"/home/nadeesha/projects/kodiak/app/app.html",
+		"/home/nadeesha/projects/kodiak/app/signup.html",
+		"/home/nadeesha/projects/kodiak/app/css/app.css",
+		"/home/nadeesha/projects/kodiak/app/js/app.js",
+		"/home/nadeesha/projects/kodiak/app/js/controllers.js",
+		"/home/nadeesha/projects/kodiak/app/js/directives.js",
+		"/home/nadeesha/projects/kodiak/app/js/filters.js",
+		"/home/nadeesha/projects/kodiak/app/js/services.js",
+		"/home/nadeesha/projects/kodiak/bower_components/angular-bootstrap/ui-bootstrap-tpls.js",
+		"/home/nadeesha/projects/grizzly/test/common.js",
+		"/home/nadeesha/projects/grizzly/test/user-profile-test.js",
+		"/home/nadeesha/projects/grizzly/test/user-token-test.js",
+		"/home/nadeesha/projects/grizzly/test/init-test.js",
+		"/home/nadeesha/projects/grizzly/server.js",
+		"/home/nadeesha/projects/grizzly/Makefile",
+		"/home/nadeesha/projects/grizzly/routes/user.js",
+		"/home/nadeesha/projects/grizzly/package.json",
+		"/home/nadeesha/projects/grizzly/test/user-login-test.js",
+		"/home/nadeesha/projects/grizzly/config/logger.js",
+		"/home/nadeesha/projects/grizzly/test/user-test.js",
+		"/home/nadeesha/projects/grizzly/test/init.js",
+		"/home/nadeesha/projects/grizzly/config.js",
+		"/home/nadeesha/.config/sublime-text-3/Packages/JsFormat/JsFormat.sublime-settings",
+		"/home/nadeesha/.config/sublime-text-3/Packages/JsFormat/Default (Linux).sublime-keymap",
+		"/home/nadeesha/projects/server.js",
+		"/home/nadeesha/projects/package.json"
+	],
+	"find":
+	{
+		"height": 35.0
+	},
+	"find_in_files":
+	{
+		"height": 93.0,
+		"where_history":
+		[
+			"/home/nadeesha/projects/grizzly/",
+			"/home/nadeesha/projects/grizzly/controllers",
+			""
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"'dev'",
+			"'development'",
+			"development",
+			"dev",
+			"development",
+			"develpment",
+			"id:",
+			"qs",
+			".get",
+			"isSuccess",
+			"500",
+			"$http.po",
+			"$http",
+			"||",
+			"-10",
+			"email",
+			"Email",
+			"Email1",
+			"view",
+			"myApp",
+			"endDateAltered",
+			"Name",
+			"user",
+			"next(e",
+			".log",
+			"console",
+			"location",
+			"contactNumber",
+			"name",
+			"position",
+			"request.post",
+			"hashed_password",
+			"'/user/login",
+			"/user/login",
+			"login",
+			"'/user/login",
+			"/user/login",
+			"winston",
+			"retur",
+			"return next",
+			" o",
+			"o",
+			"request",
+			"http",
+			"[0-9]",
+			"');\n",
+			"next(",
+			"createU",
+			"create",
+			"error = new Object({",
+			"error = new Object",
+			"team.",
+			"team",
+			"userMaster",
+			"winston"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"userMasterModel"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 0,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "config/config.js",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1510,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1064,
+								1064
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/JavaScript/JavaScript.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 510.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "models/user.js",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 4016,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								3347,
+								3347
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/JavaScript/JavaScript.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 14.0,
+						"translation.y": 3051.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "controllers/user.js",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 11282,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/JavaScript/JavaScript.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 2142.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 34.0
+	},
+	"input":
+	{
+		"height": 0.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"project": "grizzly.sublime-project",
+	"replace":
+	{
+		"height": 64.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 217.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
